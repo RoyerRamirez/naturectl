@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.js": "naturectl.com/static/js/main.e28e501c.js",
+    "static/js/883.fba733cb.js": "naturectl.com/static/js/883.fba733cb.js",
+    "static/media/bg.jpg": "naturectl.com/static/media/bg.b6840bd1491ec34f9ed1.jpg",
+    "favicon.ico": "naturectl.com/favicon.ico",
+    "index.html": "naturectl.com/index.html",
+    "favicon-32.png": "naturectl.com/favicon-32.png",
+    "favicon-16.png": "naturectl.com/favicon-16.png",
+    "manifest.json": "naturectl.com/manifest.json",
+    "serve.json": "naturectl.com/serve.json",
+    "main.e28e501c.js.map": "naturectl.com/static/js/main.e28e501c.js.map",
+    "883.fba733cb.js.map": "naturectl.com/static/js/883.fba733cb.js.map"
+  },
+  "entrypoints": [
+    "static/js/883.fba733cb.js",
+    "static/js/main.e28e501c.js"
+  ]
+}
